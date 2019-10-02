@@ -8,7 +8,7 @@ permalink: /vitae/
 ## Education
 
 2010 -- 2013
-: [Ph.D.](research/#thesis), *[Laboratoire Ondes et Milieux Complexes (LOMC)](http://www.lomc.fr/), UMR 6294, CNRS--[Université du Havre](https://www.univ-lehavre.fr/)*.
+: [Ph.D.]({{ 'research/#thesis'  | relative_url }}), *[Laboratoire Ondes et Milieux Complexes (LOMC)](http://www.lomc.fr/), UMR 6294, CNRS--[Université du Havre](https://www.univ-lehavre.fr/)*.
 
 ^
 2009 -- 2010
@@ -56,7 +56,7 @@ Keywords
 
 ^
 2010 -- 2013
-: [Ph.D.](research/#thesis), *[Laboratoire Ondes et Milieux Complexes (LOMC)](http://www.lomc.fr/), UMR 6294, CNRS--[Université du Havre](https://www.univ-lehavre.fr/)*.
+: [Ph.D.]({{ 'research/#thesis'  | relative_url }}), *[Laboratoire Ondes et Milieux Complexes (LOMC)](http://www.lomc.fr/), UMR 6294, CNRS--[Université du Havre](https://www.univ-lehavre.fr/)*.
 
 Subject
 : Numerical and experimental study of the behaviour of marine current turbines.
