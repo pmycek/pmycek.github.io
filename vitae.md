@@ -1,11 +1,9 @@
 ---
-title: "Vitae"
+title: "Vitæ"
 permalink: /vitae/
 ---
 
 <div class="cv" markdown="1">
-
-# Curriculum Vitæ
 
 ## Education
 
