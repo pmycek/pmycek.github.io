@@ -8,5 +8,5 @@ header_pages:
   - vitae.md
   - contact.md
 sass:
-    load_paths:
-        - _sass
+    sass_dir: assets/css
+    style: compressed
