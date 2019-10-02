@@ -1,0 +1,36 @@
+/********************** CV **********************/
+.cv {
+  h2 {
+    color:$lite-font-color;
+    font-weight:normal;
+    font-size: 1.6em;
+    letter-spacing:-1px;
+    margin-top:20px;
+    width:100%;
+    border-bottom:2px solid $lite-font-color;
+  }
+
+  dl {
+    overflow: hidden;
+  }
+
+  dt {
+    float: left;
+    clear: left;
+    width: 100px;
+    text-align: right;
+
+    &:first-of-type{
+      font-weight:bold;
+    }
+  }
+
+  dd {
+    margin: 0 0 0 114px;
+    padding: 0 0 0.5em 0;
+  }
+
+  a {
+    font-weight:normal;
+  }
+}
