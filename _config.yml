@@ -9,4 +9,6 @@ header_pages:
   - vitae.md
   - contact.md
 sass:
-  sass_dir: _scss
+    load_paths:
+        - _sass
+        - node_modules
