@@ -2,11 +2,4 @@
 ---
 
 @import "{{ site.theme }}";
-.img-hydrol{
-  float: left;
-  width: 160px;
-  margin:0 15px 15px 0;
-  padding:1px;
-  background:#ffffff;
-  border:1px solid black;
-}
+@import "mystyle"
