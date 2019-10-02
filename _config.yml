@@ -4,4 +4,7 @@ mardown: kramdown
 theme: minima
 header_pages:
   - index.md
+  - research.md
+  - publications.md
+  - vitae.md
   - contact.md
