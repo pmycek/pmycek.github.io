@@ -21,10 +21,10 @@ permalink: /vitae/
 ## Academic positions
 
 2017 -- now
-: Senior researcher, *[CERFACS](http://cerfacs.fr), Parallel Algorithms team*, Toulouse, France.
+: Senior researcher, *[Cerfacs](http://cerfacs.fr), Parallel Algorithms team*, Toulouse, France.
 
 2016 -- 2017
-: Post-doctoral associate, *[CERFACS](http://cerfacs.fr), Parallel Algorithms team*, Toulouse, France.
+: Post-doctoral associate, *[Cerfacs](http://cerfacs.fr), Parallel Algorithms team*, Toulouse, France.
 
 Supervisor
 : [Ulrich Rüde](https://www10.informatik.uni-erlangen.de/en/~ruede/)
