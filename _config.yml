@@ -1,6 +1,7 @@
 name: "Paul Mycek's personal website"
 url: "https://pmycek.github.io"
 mardown: kramdown
+theme: minima
 header_pages:
   - index.md
   - research.md
