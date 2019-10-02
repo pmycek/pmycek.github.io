@@ -11,4 +11,3 @@ header_pages:
 sass:
     load_paths:
         - _sass
-        - node_modules
