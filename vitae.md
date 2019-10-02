@@ -3,7 +3,7 @@ title: "Vitae"
 permalink: /vitae/
 ---
 
-<div class="cv">
+<div class="cv" markdown="1">
 
 # Curriculum Vitæ
 
