@@ -8,3 +8,5 @@ header_pages:
   - publications.md
   - vitae.md
   - contact.md
+sass:
+  sass_dir: _scss
