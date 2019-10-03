@@ -3,9 +3,9 @@ url: "https://pmycek.github.io"
 author: Paul Mycek
 email: mycek@cerfacs.fr
 description: |
-  Cerfacs\n
-  42 avenue Gaspard Coriolis\n
-  31057 Toulouse Cedex 01\n
+  Cerfacs
+  42 avenue Gaspard Coriolis
+  31057 Toulouse Cedex 01
   France
 mardown: kramdown
 theme: minima
