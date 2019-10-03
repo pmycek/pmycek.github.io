@@ -3,11 +3,13 @@ url: "https://pmycek.github.io"
 author: Paul Mycek
 email: mycek@cerfacs.fr
 safe_email: "mycek [AT] cerfacs [DOT] fr"
-description: |
+address: |
   Cerfacs
   42 avenue Gaspard Coriolis
   31057 Toulouse Cedex 01
   France
+footer-links:
+  scholar: https://scholar.google.com/citations?user=yzl1AKUAAAAJ
 mardown: kramdown
 theme: minima
 header_pages:

@@ -18,12 +18,14 @@
             {%- endif -%}
         </ul>
         <ul class="social-media-list">
-        
+          {%- if site.footer-links.scholar -%}
+          <li><a href="{{ site.footer-links.scholar }}"><i class="ai ai-google-scholar-square ai-3x"></i></a></li>
+          {%- endif -%}
         </ul>
       </div>
       <div class="footer-col footer-col-2"></div>
       <div class="footer-col footer-col-3" align="right">
-        <p>{{- site.description | escape -}}</p>
+        <p>{{- site.address | escape -}}</p>
       </div>
     </div>
 
