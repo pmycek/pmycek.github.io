@@ -16,5 +16,5 @@ header_pages:
   - vitae.md
   - contact.md
 sass:
-  sass_dir: assets
+  sass_dir: _sass
   style: compressed
