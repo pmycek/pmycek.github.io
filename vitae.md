@@ -28,7 +28,7 @@ permalink: /vitae/
 : Post-doctoral associate, *[Cerfacs](http://cerfacs.fr), Parallel Algorithms team*, Toulouse, France.
 
 Supervisor
-: [Ulrich Rüde](https://www10.informatik.uni-erlangen.de/en/~ruede/)
+: [Ulrich Rüde](https://www.cs10.tf.fau.de/person/ulrich-ruede)
 
 Keywords
 : Uncertainty quantification, high performance computing, resilience.
