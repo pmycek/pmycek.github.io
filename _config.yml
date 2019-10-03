@@ -10,6 +10,9 @@ address: |
   France
 footer-links:
   scholar: https://scholar.google.com/citations?user=yzl1AKUAAAAJ
+  orcid: https://orcid.org/0000-0002-6919-112X
+  researchgate: https://www.researchgate.net/profile/Paul_Mycek
+  publons: https://publons.com/researcher/3116447/paul-mycek
 mardown: kramdown
 theme: minima
 header_pages:
