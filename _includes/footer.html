@@ -16,6 +16,9 @@
             {%- if site.safe_email -%}
             <li><a class="u-email" href="mailto:{{ site.safe_email }}">{{ site.safe_email }}</a></li>
             {%- endif -%}
+            {%- if site.phone -%}
+            <li>{{ site.phone }}</li>
+            {%- endif -%}
         </ul>
         <ul class="social-media-list">
           {%- if site.footer-links.scholar -%}
