@@ -67,9 +67,4 @@ Director
 Keywords
 : Numerical simulations, parallel computing, particle method, vortex method, marine current turbines, interactions, experimental trials.
 
-
-## Scientific communications
-
-Here is {link: {path: biblio.en.html, attr: {link_text: the list of my scientific communications, title: My scientific communications}}}.
-
 </div>
