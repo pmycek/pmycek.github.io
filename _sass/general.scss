@@ -1,0 +1,9 @@
+a {
+  color:$lite-font-color;
+  text-decoration:none;
+
+  &:hover {
+    color:$dark-font-color;
+    text-decoration:underline;
+  }
+}

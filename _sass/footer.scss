@@ -16,10 +16,12 @@
 
       a, a:visited {
         color: $lite-font-color;
+        text-decoration:none;
       }
 
       a:hover {
         color: $dark-font-color;
+        text-decoration:none;
       }
     }
   }
