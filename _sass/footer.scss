@@ -1,3 +1,12 @@
 .footer-col p{
   white-space: pre-line;
 }
+
+ul.social-media-list {
+  display: flex;
+}
+
+.social-media-list li+li {
+    padding: 0;
+    margin-left: 4px;
+}
