@@ -2,7 +2,8 @@ name: "Paul Mycek's profesional website"
 url: "https://pmycek.github.io"
 author: Paul Mycek
 email: mycek@cerfacs.fr
-safe_email: "mycek [AT] cerfacs [DOT] fr"
+safe_email: "mycek [at] cerfacs [dot] fr"
+phone: "+33 (0)5 61 19 30 23"
 address: |
   Cerfacs
   42 avenue Gaspard Coriolis
