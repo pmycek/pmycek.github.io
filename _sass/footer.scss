@@ -1,3 +1,7 @@
+.footer-col-wrapper {
+  color: $lite-font-color; 
+}
+
 .footer-col p{
   white-space: pre-line;
 }
@@ -9,4 +13,12 @@ ul.social-media-list {
 .social-media-list li+li {
     padding: 0;
     margin-left: 4px;
+}
+
+.social-media-list a, .social-media-list a:visited {
+  color: $lite-font-color;
+}
+
+.social-media-list a:hover {
+  color: $dark-font-color;
 }
