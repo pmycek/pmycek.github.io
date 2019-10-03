@@ -23,6 +23,7 @@ permalink: /vitae/
 2017 -- now
 : Senior researcher, *[Cerfacs](http://cerfacs.fr), Parallel Algorithms team*, Toulouse, France.
 
+^
 2016 -- 2017
 : Post-doctoral associate, *[Cerfacs](http://cerfacs.fr), Parallel Algorithms team*, Toulouse, France.
 
