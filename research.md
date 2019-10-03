@@ -5,12 +5,17 @@ permalink: /research/
 
 ## Main research interests
 
-I am mainly interested in the following fields:
-
 * Uncertainty quantification (UQ)
-* Computational fluid dynamics (CFD)
-* Domain decomposition methods
+  * Monte Carlo (MC) and Multilevel Monte Carlo (MLMC) methods
+  * Surrogate models
+  * Sensitivity analysis
+* Numerical linear algebra
+  * Krylov methods
+  * Preconditioners, deflation techniques
+  * Multigrid
+  * Domain decomposition
 * High performance computing (HPC)
+* Computational fluid dynamics (CFD)
 * Particle methods
 
 
