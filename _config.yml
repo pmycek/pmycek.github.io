@@ -2,13 +2,10 @@ name: "Paul Mycek's personal website"
 url: "https://pmycek.github.io"
 author: Paul Mycek
 email: mycek@cerfacs.fr
-description: >
+description: |
   Cerfacs
-  
   42 avenue Gaspard Coriolis
-  
   31057 Toulouse Cedex 01
-  
   France
 mardown: kramdown
 theme: minima
