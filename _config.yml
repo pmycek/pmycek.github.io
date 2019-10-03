@@ -21,7 +21,6 @@ header_pages:
   - research.md
   - publications.md
   - vitae.md
-  - contact.md
 sass:
   sass_dir: _sass
   style: compressed
