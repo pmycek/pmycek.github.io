@@ -6,7 +6,7 @@
   }
 
   ul.contact-list {
-    margin-bottom: 0px;
+    margin-bottom: 5px;
   }
   
   ul.social-media-list {
@@ -15,7 +15,7 @@
     li {
       &+li {
         padding: 0;
-        margin-left: 4px;
+        margin-left: 3px;
       }
 
       a, a:visited {
