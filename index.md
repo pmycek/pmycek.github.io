@@ -2,4 +2,6 @@
 title: "Home"
 ---
 
-# Hello, World !
+# Paul Mycek
+## Senior researcher
+## Cerfacs, Toulouse, France
