@@ -34,27 +34,36 @@ permalink: /publications/
 
 ## 2017
 
-11. P. Mycek, A. Contreras, O. Le Maître, K. Sargsyan, F. Rizzi, K. Morris, C. Safta, B. Debusschere, and O. Knio. A resilient domain decomposition polynomial chaos solver for uncertain elliptic PDEs. Computer Physics Communications, 216:18–34, 2017.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.cpc.2017.02.015) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_uq.pdf)
+11. {: style="counter-reset:start-from 12"}
 
-10. P. Mycek, F. Rizzi, O. Le Maître, K. Sargsyan, K. Morris, C. Safta, B. Debusschere, and O. Knio. Discrete a priori bounds for the detection of corrupted PDE solutions in exascale computations. SIAM Journal on Scientific Computing, 39(1):C1–C28, 2017.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1051786) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_bounds.pdf)
+    P. Mycek, A. Contreras, O. Le Maître, K. Sargsyan, F. Rizzi, K. Morris, C. Safta, B. Debusschere, and O. Knio. A resilient domain decomposition polynomial chaos solver for uncertain elliptic PDEs. Computer Physics Communications, 216:18–34, 2017. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.cpc.2017.02.015) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_uq.pdf)
 
-9. F. Rizzi, K. Morris, K. Sargsyan, P. Mycek, C. Safta, O. Le Maître, O. Knio, and B. Debusschere. Partial differential equations preconditioner resilient to soft and hard faults. The International Journal of High Performance Computing Applications, 32(5):658-673, 2017.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1177%2F1094342016684975)
+10. 
 
-8. P. Mycek, G. Pinon, C. Lothodé, A. Dezotti, and C. Carlier. Iterative solver approach for turbine interactions: application to wind or marine current turbine farms. Applied Mathematical Modelling, 41:331–349, 2017.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.apm.2016.08.027)
-{: style="counter-reset:start-from 12"}
+    P. Mycek, F. Rizzi, O. Le Maître, K. Sargsyan, K. Morris, C. Safta, B. Debusschere, and O. Knio. Discrete a priori bounds for the detection of corrupted PDE solutions in exascale computations. SIAM Journal on Scientific Computing, 39(1):C1–C28, 2017. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1051786) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_bounds.pdf)
+
+9. 
+
+    F. Rizzi, K. Morris, K. Sargsyan, P. Mycek, C. Safta, O. Le Maître, O. Knio, and B. Debusschere. Partial differential equations preconditioner resilient to soft and hard faults. The International Journal of High Performance Computing Applications, 32(5):658-673, 2017. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1177%2F1094342016684975)
+
+8. 
+
+    P. Mycek, G. Pinon, C. Lothodé, A. Dezotti, and C. Carlier. Iterative solver approach for turbine interactions: application to wind or marine current turbine farms. Applied Mathematical Modelling, 41:331–349, 2017. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.apm.2016.08.027)
+
 
 ## 2016
 
-7. P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. Formulation and analysis of a diffusion-velocity particle model for transport-dispersion equations. Computational and Applied Mathematics, 35(2):447–473, 2016.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1007/s40314-014-0200-5) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-01087854/document)
-{: style="counter-reset:start-from 8"}
+7. {: style="counter-reset:start-from 8"}
+
+P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. Formulation and analysis of a diffusion-velocity particle model for transport-dispersion equations. Computational and Applied Mathematics, 35(2):447–473, 2016. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1007/s40314-014-0200-5) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-01087854/document)
 
 ## 2015
 
@@ -65,31 +74,38 @@ permalink: /publications/
 
 ## 2014
 
-5. P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Experimental study of the turbulence intensity effects on marine current turbines behaviour. Part I: One single turbine. Renewable Energy, 66(0):729–746, 2014.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1014474) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00175/28647/27171.pdf)
+5. {: style="counter-reset:start-from 6"}
 
-4. P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Experimental study of the turbulence intensity effects on marine current turbines behaviour. Part II: two interacting turbines. Renewable Energy, 68(0):876–892, 2014.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2013.12.048) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00175/28644/27110.pdf)
-{: style="counter-reset:start-from 6"}
+    P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Experimental study of the turbulence intensity effects on marine current turbines behaviour. Part I: One single turbine. Renewable Energy, 66(0):729–746, 2014. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1014474) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00175/28647/27171.pdf)
+
+4. 
+
+    P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Experimental study of the turbulence intensity effects on marine current turbines behaviour. Part II: two interacting turbines. Renewable Energy, 68(0):876–892, 2014. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2013.12.048) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00175/28644/27110.pdf)
 
 ## 2013
 
-3. P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Numerical and experimental study of the interaction between two marine current turbines. International Journal of Marine Energy, 1(0):70–83, 2013.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.ijome.2013.05.007) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00170/28165/26427.pdf)
+3. {: style="counter-reset:start-from 4"}
 
-2. P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. A self-regularising DVM-PSE method for the modelling of diffusion in particle methods. Comptes Rendus Mécanique, 341(9–10):709–714, 2013.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.crme.2013.08.002) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00159/27006/25254.pdf)
-{: style="counter-reset:start-from 4"}
+    P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Numerical and experimental study of the interaction between two marine current turbines. International Journal of Marine Energy, 1(0):70–83, 2013. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.ijome.2013.05.007) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00170/28165/26427.pdf)
+
+2. 
+
+    P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. A self-regularising DVM-PSE method for the modelling of diffusion in particle methods. Comptes Rendus Mécanique, 341(9–10):709–714, 2013. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.crme.2013.08.002) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00159/27006/25254.pdf)
 
 ## 2012
 
-1. G. Pinon, P. Mycek, G. Germain, and E. Rivoalen. Numerical simulation of the wake of marine current turbines with a particle method. Renewable Energy, 46(0):111–126, 2012.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2012.03.037) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00087/19853/17616.pdf)
-{: style="counter-reset:start-from 2"}
+1. {: style="counter-reset:start-from 2"}
+
+    G. Pinon, P. Mycek, G. Germain, and E. Rivoalen. Numerical simulation of the wake of marine current turbines with a particle method. Renewable Energy, 46(0):111–126, 2012. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2012.03.037) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00087/19853/17616.pdf)
 
 </div>
