@@ -5,6 +5,7 @@
 
     li {
       counter-increment: start-from -1;
+      text-align: justify;
 
       &::before {
         content: "[" counter(start-from) "] ";
