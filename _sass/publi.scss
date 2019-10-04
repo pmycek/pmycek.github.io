@@ -1,0 +1,17 @@
+.publi {
+  ol {
+    list-style: none;
+    counter-reset: li;
+
+    li {
+      counter-increment: li;
+
+      &::before {
+        content: "[" counter(li) "]";
+        font-weight: bold;
+      }
+    }
+  }
+
+
+}
