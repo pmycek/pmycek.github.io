@@ -64,7 +64,7 @@ permalink: /publications/
 0. P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. A self-regularising DVM-PSE method for the modelling of diffusion in particle methods. Comptes Rendus Mécanique, 341(9–10):709–714, 2013.  
 [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.crme.2013.08.002) 
 [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00159/27006/25254.pdf)
-{: reversed="reversed"}
+{: reversed}
 
 ## 2012
 0. G. Pinon, P. Mycek, G. Germain, and E. Rivoalen. Numerical simulation of the wake of marine current turbines with a particle method. Renewable Energy, 46(0):111–126, 2012.  
