@@ -39,3 +39,31 @@ permalink: /publications/
 * P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. Formulation and analysis of a diffusion-velocity particle model for transport-dispersion equations. Computational and Applied Mathematics, 35(2):447–473, 2016.  
 [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1007/s40314-014-0200-5) 
 [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-01087854/document)
+
+## 2015
+* K. Sargsyan, F. Rizzi, P. Mycek, C. Safta, K. Morris, H. Najm, O. Le Maître, O. Knio, and B. Debusschere. Fault resilient domain decomposition preconditioner for PDEs. SIAM Journal on Scientific Computing, 37(5):A2317–A2345, 2015.  
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1014474) 
+[<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_fault.pdf)
+
+## 2014
+* P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Experimental study of the turbulence intensity effects on marine current turbines behaviour. Part I: One single turbine. Renewable Energy, 66(0):729–746, 2014.  
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1014474) 
+[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00175/28647/27171.pdf)
+
+* P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Experimental study of the turbulence intensity effects on marine current turbines behaviour. Part II: two interacting turbines. Renewable Energy, 68(0):876–892, 2014.  
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2013.12.048) 
+[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00175/28644/27110.pdf)
+
+## 2013
+* P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Numerical and experimental study of the interaction between two marine current turbines. International Journal of Marine Energy, 1(0):70–83, 2013.  
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.ijome.2013.05.007) 
+[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00170/28165/26427.pdf)
+
+* P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. A self-regularising DVM-PSE method for the modelling of diffusion in particle methods. Comptes Rendus Mécanique, 341(9–10):709–714, 2013.  
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.crme.2013.08.002) 
+[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00159/27006/25254.pdf)
+
+## 2012
+* G. Pinon, P. Mycek, G. Germain, and E. Rivoalen. Numerical simulation of the wake of marine current turbines with a particle method. Renewable Energy, 46(0):111–126, 2012.  
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2012.03.037) 
+[<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00087/19853/17616.pdf)
