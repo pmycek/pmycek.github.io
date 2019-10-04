@@ -67,10 +67,11 @@ permalink: /publications/
 
 ## 2015
 
-6. K. Sargsyan, F. Rizzi, P. Mycek, C. Safta, K. Morris, H. Najm, O. Le Maître, O. Knio, and B. Debusschere. Fault resilient domain decomposition preconditioner for PDEs. SIAM Journal on Scientific Computing, 37(5):A2317–A2345, 2015.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1014474) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_fault.pdf)
-{: style="counter-reset:start-from 7"}
+6. {: style="counter-reset:start-from 7"}
+
+    K. Sargsyan, F. Rizzi, P. Mycek, C. Safta, K. Morris, H. Najm, O. Le Maître, O. Knio, and B. Debusschere. Fault resilient domain decomposition preconditioner for PDEs. SIAM Journal on Scientific Computing, 37(5):A2317–A2345, 2015. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1014474) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_fault.pdf)
 
 ## 2014
 
