@@ -34,10 +34,10 @@ permalink: /publications/
 [<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_bounds.pdf)
 
 9. F. Rizzi, K. Morris, K. Sargsyan, P. Mycek, C. Safta, O. Le Maître, O. Knio, and B. Debusschere. Partial differential equations preconditioner resilient to soft and hard faults. The International Journal of High Performance Computing Applications, 32(5):658-673, 2017.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1177%2F1094342016684975) 
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1177%2F1094342016684975)
 
 8. P. Mycek, G. Pinon, C. Lothodé, A. Dezotti, and C. Carlier. Iterative solver approach for turbine interactions: application to wind or marine current turbine farms. Applied Mathematical Modelling, 41:331–349, 2017.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.apm.2016.08.027) 
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.apm.2016.08.027)
 {: style="counter-reset:start-from 12"}
 
 ## 2016
@@ -73,6 +73,7 @@ permalink: /publications/
 {: style="counter-reset:start-from 4"}
 
 ## 2012
+
 1. G. Pinon, P. Mycek, G. Germain, and E. Rivoalen. Numerical simulation of the wake of marine current turbines with a particle method. Renewable Energy, 46(0):111–126, 2012.  
 [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2012.03.037) 
 [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00087/19853/17616.pdf)
