@@ -1,7 +1,6 @@
 .publi {
   ol {
     list-style: none;
-    counter-reset: start-from;
 
     li {
       counter-increment: start-from -1;
