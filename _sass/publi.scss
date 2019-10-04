@@ -7,7 +7,7 @@
       counter-increment: li;
 
       &::before {
-        content: "[" counter(li) "]";
+        content: "[" counter(li) "] ";
         font-weight: bold;
       }
     }
