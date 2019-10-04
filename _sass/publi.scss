@@ -4,7 +4,7 @@
     counter-reset: li;
 
     li {
-      counter-increment: li;
+      counter-increment: li -1;
 
       &::before {
         content: "[" counter(li) "] ";
