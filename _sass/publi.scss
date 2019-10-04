@@ -5,11 +5,13 @@
     li {
       counter-increment: start-from -1;
       text-align: justify;
+      display: flex;
 
       &::before {
         content: "[" counter(start-from) "] ";
         font-weight: bold;
         text-align: right;
+        margin-right: 0.5em;
       }
     }
   }
