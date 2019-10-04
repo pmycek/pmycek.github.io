@@ -20,7 +20,7 @@ permalink: /publications/
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/17M1132185) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/paper_DDA.pdf)
 
-13. <!---->
+13. <!-- -->
 
     A. Contreras, P. Mycek, O. Le Maître, F. Rizzi, B. Debusschere, and O. Knio. Parallel domain decomposition strategies for stochastic elliptic equations. Part B: Accelerated Monte Carlo Sampling with Local PC Expansions. SIAM Journal on Scientific Computing, 40(4):C547-C580, 2018. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/17M1132197) 
