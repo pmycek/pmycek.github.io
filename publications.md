@@ -21,6 +21,10 @@ permalink: /publications/
 [<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/exa_ParCo.pdf)
 
 ## 2017
-* P. Mycek, A. Contreras, O. Le Maître, K. Sargsyan, F. Rizzi, K. Morris, C. Safta, B. Debusschere, and O. Knio. A resilient domain decomposition polynomial chaos solver for uncertain elliptic PDEs. Computer Physics Communications, 216:18–34, 2017.
+* P. Mycek, A. Contreras, O. Le Maître, K. Sargsyan, F. Rizzi, K. Morris, C. Safta, B. Debusschere, and O. Knio. A resilient domain decomposition polynomial chaos solver for uncertain elliptic PDEs. Computer Physics Communications, 216:18–34, 2017.  
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.cpc.2017.02.015) 
+[<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_uq.pdf)
 
-* P. Mycek, F. Rizzi, O. Le Maître, K. Sargsyan, K. Morris, C. Safta, B. Debusschere, and O. Knio. Discrete a priori bounds for the detection of corrupted PDE solutions in exascale computations. SIAM Journal on Scientific Computing, 39(1):C1–C28, 2017.
+* P. Mycek, F. Rizzi, O. Le Maître, K. Sargsyan, K. Morris, C. Safta, B. Debusschere, and O. Knio. Discrete a priori bounds for the detection of corrupted PDE solutions in exascale computations. SIAM Journal on Scientific Computing, 39(1):C1–C28, 2017.  
+[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1051786) 
+[<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_bounds.pdf)
