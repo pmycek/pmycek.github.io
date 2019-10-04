@@ -1,13 +1,13 @@
 .publi {
   ol {
     list-style: none;
-    counter-reset: li;
+    counter-reset: start-from;
 
     li {
-      counter-increment: li -1;
+      counter-increment: start-from -1;
 
       &::before {
-        content: "[" counter(li) "] ";
+        content: "[" counter(start-from) "] ";
         font-weight: bold;
         text-align: right;
       }
