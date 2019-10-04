@@ -3,6 +3,8 @@ title: "Publications"
 permalink: /publications/
 ---
 
+<div class="publi" markdown="1">
+
 ## 2019
 * P. Mycek and M. De Lozzo. Multilevel Monte Carlo covariance estimation for the computation of Sobol' indices. SIAM/ASA Journal on Uncertainty Quantification. In press, 2019.  
 [<i class="far fa-file-pdf fa-lg"></i>](https://cerfacs.fr/wp-content/uploads/2019/09/technical_report18_128.pdf)
@@ -67,3 +69,5 @@ permalink: /publications/
 1. G. Pinon, P. Mycek, G. Germain, and E. Rivoalen. Numerical simulation of the wake of marine current turbines with a particle method. Renewable Energy, 46(0):111–126, 2012.  
 [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2012.03.037) 
 [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00087/19853/17616.pdf)
+
+</div>
