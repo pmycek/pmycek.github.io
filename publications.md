@@ -42,8 +42,8 @@ permalink: /publications/
 
 ## 2016
 7. P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. Formulation and analysis of a diffusion-velocity particle model for transport-dispersion equations. Computational and Applied Mathematics, 35(2):447–473, 2016.  
-[<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1007/s40314-014-0200-5) 
-[<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-01087854/document)
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1007/s40314-014-0200-5) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-01087854/document)
 {: style="counter-reset:start-from 8"}
 
 ## 2015
