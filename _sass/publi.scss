@@ -9,6 +9,7 @@
       &::before {
         content: "[" counter(li) "] ";
         font-weight: bold;
+        text-align: right;
       }
     }
   }
