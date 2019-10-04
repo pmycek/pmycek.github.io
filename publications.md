@@ -6,10 +6,9 @@ permalink: /publications/
 <div class="publi" markdown="1">
 
 ## 2019
-15. 
-    P. Mycek and M. De Lozzo. Multilevel Monte Carlo covariance estimation for the computation of Sobol' indices. SIAM/ASA Journal on Uncertainty Quantification. In press, 2019.  
-    [<i class="far fa-file-pdf fa-lg"></i>](https://cerfacs.fr/wp-content/uploads/2019/09/technical_report18_128.pdf)
-    {: style="counter-reset:start-from 16"}
+15. P. Mycek and M. De Lozzo. Multilevel Monte Carlo covariance estimation for the computation of Sobol' indices. SIAM/ASA Journal on Uncertainty Quantification. In press, 2019.  
+[<i class="far fa-file-pdf fa-lg"></i>](https://cerfacs.fr/wp-content/uploads/2019/09/technical_report18_128.pdf)
+{: style="counter-reset:start-from 16"}
 
 ## 2018
 14. A. Contreras, P. Mycek, O. Le Maître, F. Rizzi, B. Debusschere, and O. Knio. Parallel domain decomposition strategies for stochastic elliptic equations. Part A: Local Karhunen-Loève representations. SIAM Journal on Scientific Computing, 40(4):C520-C546, 2018.  
