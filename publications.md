@@ -9,7 +9,8 @@ permalink: /publications/
 
 15. {: style="counter-reset:start-from 16"}
 
-    P. Mycek and M. De Lozzo. Multilevel Monte Carlo covariance estimation for the computation of Sobol' indices. SIAM/ASA Journal on Uncertainty Quantification. In press, 2019. 
+    P. Mycek and M. De Lozzo. Multilevel Monte Carlo covariance estimation for the computation of Sobol' indices. SIAM/ASA Journal on Uncertainty Quantification, 7(4):1323-1348, 2019. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/18M1216389) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://cerfacs.fr/wp-content/uploads/2019/09/technical_report18_128.pdf)
 
 ## 2018
