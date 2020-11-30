@@ -62,7 +62,7 @@ Keywords
 Subject
 : Numerical and experimental study of the behaviour of marine current turbines.
 
-Director
+Advisor
 : Élie Rivoalen
 
 Keywords
