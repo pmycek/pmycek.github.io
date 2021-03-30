@@ -5,6 +5,12 @@ permalink: /publications/
 
 <div class="publi" markdown="1">
 
+## 2021
+
+16. {: style="counter-reset:start-from 17"}
+
+    J. Reis, O. Le Maître, P. Congedo and P. Mycek. Stochastic Preconditioning of Domain Decomposition Methods for Elliptic Equations with Random Coefficients. To appear in Computer Methods in Applied Mechanics and Engineering, 2021.
+
 ## 2019
 
 15. {: style="counter-reset:start-from 16"}
