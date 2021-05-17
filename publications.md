@@ -7,9 +7,13 @@ permalink: /publications/
 
 ## 2021
 
-16. {: style="counter-reset:start-from 17"}
+17. {: style="counter-reset:start-from 18"}
 
-    J. Reis, O. Le Maître, P. Congedo and P. Mycek. Stochastic Preconditioning of Domain Decomposition Methods for Elliptic Equations with Random Coefficients. To appear in Computer Methods in Applied Mechanics and Engineering, 2021. 
+    D. Di Pietro, F. Hülsemann, P. Mycek, U. Rüde and D. Ruiz. An h-multigrid method for Hybrid High-Order discretizations. To appear in SIAM Journal on Scientific Computing, 2021.
+
+16. <!-- -->
+
+    J. Reis, O. Le Maître, P. Congedo and P. Mycek. Stochastic Preconditioning of Domain Decomposition Methods for Elliptic Equations with Random Coefficients. Computer Methods in Applied Mechanics and Engineering, 381:113845, 2021. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.cma.2021.113845) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.inria.fr/hal-03201297/document)
 
