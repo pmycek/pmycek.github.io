@@ -7,9 +7,15 @@ permalink: /publications/
 
 ## 2021
 
-17. {: style="counter-reset:start-from 18"}
+18. {: style="counter-reset:start-from 19"}
 
-    D. Di Pietro, F. Hülsemann, P. Mycek, U. Rüde and D. Ruiz. An h-multigrid method for Hybrid High-Order discretizations. To appear in SIAM Journal on Scientific Computing, 2021. 
+    D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. Towards robust, fast solutions of elliptic equations on complex domains through hybrid high-order discretizations and non-nested multigrid methods. International Journal for Numerical Methods in Engineering, 1-20, 2021. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1002/nme.6803) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-03163476v2/document)
+
+17. <!-- -->
+
+    P. Matalon, D. Di Pietro, F. Hülsemann, P. Mycek, U. Rüde and D. Ruiz. An h-multigrid method for Hybrid High-Order discretizations. To appear in SIAM Journal on Scientific Computing, 2021. 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-02434411v3/document)
 
 16. <!-- -->
