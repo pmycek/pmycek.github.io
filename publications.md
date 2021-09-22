@@ -15,7 +15,8 @@ permalink: /publications/
 
 17. <!-- -->
 
-    P. Matalon, D. Di Pietro, F. Hülsemann, P. Mycek, U. Rüde and D. Ruiz. An h-multigrid method for Hybrid High-Order discretizations. To appear in SIAM Journal on Scientific Computing, 2021. 
+    D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. An h-multigrid method for Hybrid High-Order discretizations. SIAM Journal on Scientific Computing, 2021. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/20M1342471) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-02434411v3/document)
 
 16. <!-- -->
