@@ -7,7 +7,13 @@ permalink: /publications/
 
 ## 2021
 
-18. {: style="counter-reset:start-from 19"}
+19. {: style="counter-reset:start-from 20"}
+
+    E. Agullo, M. Altenbernd, H. Anzt, L. Bautista-Gomez, T. Benacchio, L. Bonaventura, H.-J. Bungartz, S. Chatterjee, F.M. Ciorba, N. DeBardeleben, D. Drzisga, S. Eibl, C. Engelmann, W.N. Gansterer, L. Giraud, D. Göddeke, M. Heisig, F. Jézéquel, N. Kohl, X.S. Li, R. Lion, M. Mehl, P. Mycek, M. Obersteiner, E.S. Quintana-Ortí, F. Rizzi, U. Rüde, M. Schulz, F. Fung, R. Speck, L. Stals, K. Teranishi, S. Thibault, D. Thönnes, A. Wagner, B. Wohlmuth. Resiliency in numerical algorithm design for extreme scale simulations. The International Journal of High Performance Computing Applications, 2021.
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1177/10943420211055188) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://arxiv.org/pdf/2010.13342)
+
+18. <!-- -->
 
     D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. Towards robust, fast solutions of elliptic equations on complex domains through hybrid high-order discretizations and non-nested multigrid methods. International Journal for Numerical Methods in Engineering, 1-20, 2021. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1002/nme.6803) 
