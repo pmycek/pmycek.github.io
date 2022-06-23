@@ -9,14 +9,15 @@ permalink: /publications/
 
 20. {: style="counter-reset:start-from 21"}
 
-    D. Di Pietro, P. Matalon, P. Mycek and U. Rüde. High-order multigrid strategies for HHO discretizations of elliptic equations. To appear in Numerical Linear Algebra with Applications, 2022. 
+    D. Di Pietro, P. Matalon, P. Mycek and U. Rüde. High-order multigrid strategies for HHO discretizations of elliptic equations. Numerical Linear Algebra with Applications, e2456, 2022. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1002/nla.2456) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-03531293/document)
 
 ## 2021
 
 19. {: style="counter-reset:start-from 20"}
 
-    D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. Towards robust, fast solutions of elliptic equations on complex domains through hybrid high-order discretizations and non-nested multigrid methods. International Journal for Numerical Methods in Engineering, 1-20, 2021. 
+    D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. Towards robust, fast solutions of elliptic equations on complex domains through hybrid high-order discretizations and non-nested multigrid methods. International Journal for Numerical Methods in Engineering, 122:6576-6595, 2021. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1002/nme.6803) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-03163476v2/document)
 
