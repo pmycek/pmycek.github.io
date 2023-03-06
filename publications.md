@@ -5,6 +5,15 @@ permalink: /publications/
 
 <div class="publi" markdown="1">
 
+
+## 2023
+
+21. {: style="counter-reset:start-from 22"}
+
+    D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek and U. Rüde. Algebraic Multigrid Preconditioner for Statically Condensed Systems Arising from Lowest-Order Hybrid Discretizations. SIAM Journal on Scientific Computing, S329-S350, 2023. 
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/21M1429849) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-03272468v2/document)
+
 ## 2022
 
 20. {: style="counter-reset:start-from 21"}
@@ -23,7 +32,7 @@ permalink: /publications/
 
 18. <!-- -->
 
-    D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. An h-multigrid method for Hybrid High-Order discretizations. SIAM Journal on Scientific Computing, S839-S861, 2021. 
+    D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. An h-multigrid method for Hybrid High-Order discretizations. SIAM Journal on Scientific Computing, 43(5):S839-S861, 2021. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/20M1342471) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-02434411v3/document)
 
