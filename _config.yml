@@ -14,6 +14,8 @@ footer-links:
   orcid: https://orcid.org/0000-0002-6919-112X
   researchgate: https://www.researchgate.net/profile/Paul_Mycek
   publons: https://www.webofscience.com/wos/author/record/2982040
+  arxiv: http://arxiv.org/a/mycek_p_1
+  hal: https://hal.science/search/index/q/*/authIdHal_s/paul-mycek
 mardown: kramdown
 theme: minima
 header_pages:
