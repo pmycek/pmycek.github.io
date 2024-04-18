@@ -51,7 +51,7 @@ My Ph.D. manuscript is openly available:
 * [TEL][these_TEL] (multidisciplinary theses server).
 * [Archimer][these_Archimer] (IFREMER's bibliographic archives).
 
-[these_TEL]: http://tel.archives-ouvertes.fr/tel-00925229
+[these_TEL]: https://theses.hal.science/tel-00925229v2
 [these_Archimer]: http://archimer.ifremer.fr/doc/00170/28152/
 
 ### Abstract
