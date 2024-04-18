@@ -8,11 +8,11 @@ permalink: /vitae/
 ## Degrees
 
 2024
-: [HDR (habilitation à diriger des recherches) degree]({{ 'research/#hdr'  | relative_url }}), *[Université de Bordeaux](https://www.u-bordeaux.fr/)*.
+: [HDR]({{ 'research/#hdr'  | relative_url }}) (habilitation à diriger des recherches) degree, *[Université de Bordeaux](https://www.u-bordeaux.fr/)*.
 
 ^
 2013
-: [Ph.D. degree]({{ 'research/#thesis'  | relative_url }}), *[Laboratoire Ondes et Milieux Complexes (LOMC)][lomc], UMR 6294, CNRS-[Université du Havre][ulh]*.
+: [Ph.D.]({{ 'research/#thesis'  | relative_url }}) degree, *[Laboratoire Ondes et Milieux Complexes (LOMC)][lomc], UMR 6294, CNRS-[Université du Havre][ulh]*.
 
 ^
 2010
