@@ -16,6 +16,7 @@ permalink: /research/
   * Multigrid methods
   * Domain decomposition methods
 * High performance computing (HPC)
+* Scientific machine learning (SciML)
 * Computational fluid dynamics (CFD)
 * Particle methods
 
