@@ -5,26 +5,20 @@ permalink: /publications/
 
 <div class="publi" markdown="1">
 
-
-## 2023
-
 21. {: style="counter-reset:start-from 22"}
 
     D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek and U. Rüde. Algebraic Multigrid Preconditioner for Statically Condensed Systems Arising from Lowest-Order Hybrid Discretizations. SIAM Journal on Scientific Computing, S329-S350, 2023. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/21M1429849) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-03272468v2/document)
 
-## 2022
-
-20. {: style="counter-reset:start-from 21"}
+20. <!-- -->
 
     D. Di Pietro, P. Matalon, P. Mycek and U. Rüde. High-order multigrid strategies for HHO discretizations of elliptic equations. Numerical Linear Algebra with Applications, e2456, 2022. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1002/nla.2456) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-03531293/document)
 
-## 2021
 
-19. {: style="counter-reset:start-from 20"}
+19. <!-- -->
 
     D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. Towards robust, fast solutions of elliptic equations on complex domains through hybrid high-order discretizations and non-nested multigrid methods. International Journal for Numerical Methods in Engineering, 122:6576-6595, 2021. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1002/nme.6803) 
@@ -48,17 +42,13 @@ permalink: /publications/
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1177/10943420211055188) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://arxiv.org/pdf/2010.13342)
 
-## 2019
-
-15. {: style="counter-reset:start-from 16"}
+15. <!-- -->
 
     P. Mycek and M. De Lozzo. Multilevel Monte Carlo covariance estimation for the computation of Sobol' indices. SIAM/ASA Journal on Uncertainty Quantification, 7(4):1323-1348, 2019. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/18M1216389) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://cerfacs.fr/wp-content/uploads/2018/09/TR-PA-18-128.pdf)
 
-## 2018
-
-14. {: style="counter-reset:start-from 15"}
+14. <!-- -->
 
     A. Contreras, P. Mycek, O. Le Maître, F. Rizzi, B. Debusschere, and O. Knio. Parallel domain decomposition strategies for stochastic elliptic equations. Part A: Local Karhunen-Loève representations. SIAM Journal on Scientific Computing, 40(4):C520-C546, 2018. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/17M1132185) 
@@ -76,9 +66,7 @@ permalink: /publications/
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.parco.2017.05.005) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/exa_ParCo.pdf)
 
-## 2017
-
-11. {: style="counter-reset:start-from 12"}
+11. <!-- -->
 
     P. Mycek, A. Contreras, O. Le Maître, K. Sargsyan, F. Rizzi, K. Morris, C. Safta, B. Debusschere, and O. Knio. A resilient domain decomposition polynomial chaos solver for uncertain elliptic PDEs. Computer Physics Communications, 216:18–34, 2017. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.cpc.2017.02.015) 
@@ -100,26 +88,19 @@ permalink: /publications/
     P. Mycek, G. Pinon, C. Lothodé, A. Dezotti, and C. Carlier. Iterative solver approach for turbine interactions: application to wind or marine current turbine farms. Applied Mathematical Modelling, 41:331–349, 2017. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.apm.2016.08.027)
 
-
-## 2016
-
-7. {: style="counter-reset:start-from 8"}
+7. <!-- -->
 
     P. Mycek, G. Pinon, G. Germain, and E. Rivoalen. Formulation and analysis of a diffusion-velocity particle model for transport-dispersion equations. Computational and Applied Mathematics, 35(2):447–473, 2016. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1007/s40314-014-0200-5) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-01087854/document)
 
-## 2015
-
-6. {: style="counter-reset:start-from 7"}
+6. <!-- -->
 
     K. Sargsyan, F. Rizzi, P. Mycek, C. Safta, K. Morris, H. Najm, O. Le Maître, O. Knio, and B. Debusschere. Fault resilient domain decomposition preconditioner for PDEs. SIAM Journal on Scientific Computing, 37(5):A2317–A2345, 2015. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1014474) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://perso.limsi.fr/olm/archives/resilience_fault.pdf)
 
-## 2014
-
-5. {: style="counter-reset:start-from 6"}
+5. <!-- -->
 
     P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Experimental study of the turbulence intensity effects on marine current turbines behaviour. Part I: One single turbine. Renewable Energy, 66(0):729–746, 2014. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/15M1014474) 
@@ -131,10 +112,7 @@ permalink: /publications/
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2013.12.048) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00175/28644/27110.pdf)
 
-## 2013
-
-3. {: style="counter-reset:start-from 4"}
-
+3. <!-- -->
     P. Mycek, B. Gaurier, G. Germain, G. Pinon, and E. Rivoalen. Numerical and experimental study of the interaction between two marine current turbines. International Journal of Marine Energy, 1(0):70–83, 2013. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.ijome.2013.05.007) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00170/28165/26427.pdf)
@@ -145,9 +123,7 @@ permalink: /publications/
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.crme.2013.08.002) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://archimer.ifremer.fr/doc/00159/27006/25254.pdf)
 
-## 2012
-
-1. {: style="counter-reset:start-from 2"}
+1. <!-- -->
 
     G. Pinon, P. Mycek, G. Germain, and E. Rivoalen. Numerical simulation of the wake of marine current turbines with a particle method. Renewable Energy, 46(0):111–126, 2012. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.renene.2012.03.037) 
