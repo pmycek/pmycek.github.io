@@ -5,7 +5,13 @@ permalink: /publications/
 
 <div class="publi" markdown="1">
 
-21. {: style="counter-reset:start-from 22"}
+22. {: style="counter-reset:start-from 23"}
+
+    M. Destouches, P. Mycek, S. Gürol, A. T. Weaver, S. Gratton and E. Simon. Multilevel Monte Carlo methods for ensemble variational data assimilation. Nonlinear Processes in Geophysics, vol. 32, no. 2, pp. 167–187, 2025.
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.5194/npg-32-167-2025) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://npg.copernicus.org/articles/32/167/2025/npg-32-167-2025.pdf)
+
+21. <!-- -->
 
     D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek and U. Rüde. Algebraic Multigrid Preconditioner for Statically Condensed Systems Arising from Lowest-Order Hybrid Discretizations. SIAM Journal on Scientific Computing, S329-S350, 2023. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/21M1429849) 
