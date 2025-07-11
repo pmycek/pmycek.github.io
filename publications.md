@@ -5,7 +5,14 @@ permalink: /publications/
 
 <div class="publi" markdown="1">
 
-22. {: style="counter-reset:start-from 23"}
+23. {: style="counter-reset:start-from 24"}
+
+    J. Briant, P. Mycek, M. Destouches, O. Goux, S. Gratton, S. Gürol, E. Simon, and A. T. Weaver. A filtered multilevel Monte Carlo method for estimating the expectation of cell-centered discretized random fields. International Journal for Uncertainty Quantification, in press, 2025.
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1615/Int.J.UncertaintyQuantification.2025057754) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://arxiv.org/pdf/2311.06069)
+
+
+22. <!-- -->
 
     M. Destouches, P. Mycek, S. Gürol, A. T. Weaver, S. Gratton and E. Simon. Multilevel Monte Carlo methods for ensemble variational data assimilation. Nonlinear Processes in Geophysics, vol. 32, no. 2, pp. 167–187, 2025.
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.5194/npg-32-167-2025) 
