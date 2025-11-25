@@ -9,7 +9,7 @@ permalink: /publications/
 
     R. Espoeys, L. Brevault, M. Balesdent, S. Ricci and P. Mycek. Multifidelity Bayesian Sequential Optimization and Reliability Assessment for Aerospace Systems Design. Journal of Aerospace Information Systems, 2025.
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.2514/1.I011614) 
-    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-05244435v1/document)
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-05244435/document)
 
 23. <!-- -->
 
@@ -28,32 +28,32 @@ permalink: /publications/
 
     D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek and U. Rüde. Algebraic Multigrid Preconditioner for Statically Condensed Systems Arising from Lowest-Order Hybrid Discretizations. SIAM Journal on Scientific Computing, S329-S350, 2023. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/21M1429849) 
-    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-03272468v2/document)
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-03272468/document)
 
 20. <!-- -->
 
     D. Di Pietro, P. Matalon, P. Mycek and U. Rüde. High-order multigrid strategies for HHO discretizations of elliptic equations. Numerical Linear Algebra with Applications, e2456, 2022. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1002/nla.2456) 
-    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-03531293/document)
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-03531293/document)
 
 
 19. <!-- -->
 
     D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. Towards robust, fast solutions of elliptic equations on complex domains through hybrid high-order discretizations and non-nested multigrid methods. International Journal for Numerical Methods in Engineering, 122:6576-6595, 2021. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1002/nme.6803) 
-    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-03163476v2/document)
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-03163476/document)
 
 18. <!-- -->
 
     D. Di Pietro, F. Hülsemann, P. Matalon, P. Mycek, U. Rüde and D. Ruiz. An h-multigrid method for Hybrid High-Order discretizations. SIAM Journal on Scientific Computing, 43(5):S839-S861, 2021. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1137/20M1342471) 
-    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.archives-ouvertes.fr/hal-02434411v3/document)
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-02434411/document)
 
 17. <!-- -->
 
     J. Reis, O. Le Maître, P. Congedo and P. Mycek. Stochastic Preconditioning of Domain Decomposition Methods for Elliptic Equations with Random Coefficients. Computer Methods in Applied Mechanics and Engineering, 381:113845, 2021. 
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1016/j.cma.2021.113845) 
-    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.inria.fr/hal-03201297/document)
+    [<i class="far fa-file-pdf fa-lg"></i>](https://inria.hal.science/hal-03201297/document)
 
 16. <!-- -->
 
