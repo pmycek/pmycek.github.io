@@ -5,9 +5,15 @@ permalink: /publications/
 
 <div class="publi" markdown="1">
 
-23. {: style="counter-reset:start-from 24"}
+24. {: style="counter-reset:start-from 25"}
 
-    J. Briant, P. Mycek, M. Destouches, O. Goux, S. Gratton, S. Gürol, E. Simon, and A. T. Weaver. A filtered multilevel Monte Carlo method for estimating the expectation of cell-centered discretized random fields. International Journal for Uncertainty Quantification, vol. 15, no. 6, pp. 1-36, 2025.
+    R. Espoeys, L. Brevault, M. Balesdent, S. Ricci and P. Mycek. Multifidelity Bayesian Sequential Optimization and Reliability Assessment for Aerospace Systems Design. Journal of Aerospace Information Systems, 2025.
+    [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.2514/1.I011614) 
+    [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-05244435v1/document)
+
+23. <!-- -->
+
+    J. Briant, P. Mycek, M. Destouches, O. Goux, S. Gratton, S. Gürol, E. Simon and A. T. Weaver. A filtered multilevel Monte Carlo method for estimating the expectation of cell-centered discretized random fields. International Journal for Uncertainty Quantification, vol. 15, no. 6, pp. 1-36, 2025.
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.1615/Int.J.UncertaintyQuantification.2025057754) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://arxiv.org/pdf/2311.06069)
 
