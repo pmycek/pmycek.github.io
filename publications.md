@@ -11,7 +11,7 @@ permalink: /publications/
 
 24. <!-- -->
 
-    R. Espoeys, L. Brevault, M. Balesdent, S. Ricci and P. Mycek. Multifidelity Bayesian Sequential Optimization and Reliability Assessment for Aerospace Systems Design. Journal of Aerospace Information Systems, 2025.
+    R. Espoeys, L. Brevault, M. Balesdent, S. Ricci and P. Mycek. Multifidelity Bayesian Sequential Optimization and Reliability Assessment for Aerospace Systems Design. Journal of Aerospace Information Systems, vol. 23, no. 1, 2026.
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.2514/1.I011614) 
     [<i class="far fa-file-pdf fa-lg"></i>](https://hal.science/hal-05244435/document)
 
