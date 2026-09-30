@@ -5,7 +5,11 @@ permalink: /publications/
 
 <div class="publi" markdown="1">
 
-24. {: style="counter-reset:start-from 25"}
+25. {: style="counter-reset:start-from 26"}
+
+    L. Giraud, C. Kruse, P. Mycek, M. Shpakovych, Y. Xiang. Neural network preconditioning: a case study for the solution of the parametric Helmholtz equation. Numerical Linear Algebra with Applications, 2026. In press.
+
+24. <!-- -->
 
     R. Espoeys, L. Brevault, M. Balesdent, S. Ricci and P. Mycek. Multifidelity Bayesian Sequential Optimization and Reliability Assessment for Aerospace Systems Design. Journal of Aerospace Information Systems, 2025.
     [<i class="ai ai-doi ai-lg"></i>](https://doi.org/10.2514/1.I011614) 
